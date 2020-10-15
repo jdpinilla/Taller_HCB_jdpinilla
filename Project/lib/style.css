@@ -1,0 +1,8 @@
+/* Add your styles here */
+
+div{
+  width: 300;
+  background-color: gainsboro;
+  margin: 10px;
+  display: inline-block;
+}
